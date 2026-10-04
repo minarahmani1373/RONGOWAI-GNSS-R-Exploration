@@ -14,6 +14,7 @@ The analysis focuses on:
 ## Dataset
 
 The analysis uses the RONGOWAI L1 SDR dataset.
+http://search.earthdata.nasa.gov/search/granules?p=C2784494745-POCLOUD&pg[0][v]=f&pg[0][qt]=2022-05-11T00%3A00%3A00.000Z%2C2026-07-05T23%3A59%3A59.999Z&pg[0][gsk]=-start_date&g=G4227723100-POCLOUD&lat=-41.204&long=173.39088732394367&zoom=4.373764823736742
 
 The original NetCDF (`.nc`) data files are not included in this repository.
 
